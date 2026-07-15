@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:2CB5E8&height=220&section=header&text=Hi%2C%20I'm%20Dhruv&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20MERN%20Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I%20am%20Dhruv&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Frontend+Intern+%40+Venture+X+India;React.js+%7C+Redux+%7C+Node.js+%7C+MongoDB;1st+Place+%40+Tech+Launchpad+1.0+(Unstop);Always+shipping%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Frontend+Intern+at+Venture+X+India;React.js+and+the+MERN+Stack;1st+Place+at+Tech+Launchpad+1.0" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/dhruv-bharija-2822a9323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/dhruv_bharija1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
