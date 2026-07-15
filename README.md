@@ -17,8 +17,8 @@
 
 ## About Me
 
-- 🔭 Frontend Intern at **Venture X India** — building and shipping React UI in production
 - 🏆 Secured **1st place nationally** at Tech Launchpad 1.0 (Unstop) for building [mbapartner.in](https://mbapartner.in), serving 2,000+ students
+- 🔭 Frontend Intern at **Venture X India** — building and shipping React UI in production
 - 🎓 B.Tech Computer Science @ BML Munjal University
 - ⚡ Comfortable across the full MERN stack — React, Redux, Node.js, Express, MongoDB
 - 🎯 Focused on responsive design, accessibility (WCAG basics), and performance optimization (lazy loading, code splitting, memoization)
