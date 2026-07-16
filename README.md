@@ -69,8 +69,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvbharija8-lang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbharija8-lang&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/dhruvbharija8-lang?style=for-the-badge&logo=github&color=2E9EF7&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1a2e&color=2E9EF7&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhruvbharija8-lang" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1a1a2e&color=2E9EF7&label=Public%20Gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhruvbharija8-lang" />
 </p>
 
 <p align="center">
