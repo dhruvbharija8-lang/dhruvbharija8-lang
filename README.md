@@ -99,6 +99,14 @@ const dhruv = {
 <!-- ====================== FEATURED PROJECTS ====================== -->
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sSTh1v9/giphy.gif" width="28"> &nbsp;Featured Projects
 
+<!-- 🪐 PROJECT UNIVERSE BANNER — commit project-universe.svg to your repo root,
+     then this renders as an animated solar system where each project orbits as a planet. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dhruvbharija8-lang/dhruvbharija8-lang/main/project-universe.svg" width="100%" alt="Dhruv's Project Universe"/>
+</div>
+
+<br/>
+
 <!--
   📸 SCREENSHOT SLOTS — replace each placeholder image URL below with a real
   screenshot or demo GIF for maximum impact. Recommended: 1280×720 landscape.
